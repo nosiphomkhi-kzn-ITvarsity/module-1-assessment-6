@@ -1,0 +1,45 @@
+h1{
+    color: crimson;
+    font-family: fantasy;
+}
+
+h2{
+    color: dodgerblue;
+
+}
+
+#menu-bar{
+    width: 40%;
+    height: 20px;
+    padding-top: 12px;
+}
+
+#menu-bar a{
+    color: cornflowerblue;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#menu a:hover{
+    color: darkcyan;
+}
+
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: separate;
+    border-width: 1px;
+    border-style: solid;
+    border-color: cornflowerblue;
+
+}
+p{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
